@@ -1,0 +1,223 @@
+频道,#genre#
+
+CCTV1,http://36.129.204.120:880/CCD303.m3u8
+CCTV1,http://13457610200.8866.org:2018/live/CCTVx1高清/index.m3u8
+CCTV1,http://13457610200.8866.org:2018/live/中央1HD/index.m3u8
+CCTV1,http://caiyehe.7766.org:9901/tsfile/live/1083_1.m3u8
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+
+CCTV2,http://36.129.204.120:880/DX2.m3u8
+CCTV2,http://13457610200.8866.org:2018/live/CCTVx2高清/index.m3u8
+CCTV2,http://13457610200.8866.org:2018/live/中央2HD/index.m3u8
+CCTV2,http://caiyehe.7766.org:9901/tsfile/live/1047_1.m3u8
+CCTV2,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv2$r7d 8M FHD
+CCTV3,http://36.129.204.120:880/DX101.m3u8
+CCTV3,http://13457610200.8866.org:2018/live/CCTVx3高清/index.m3u8
+CCTV3,http://13457610200.8866.org:2018/live/中央3HD/index.m3u8
+CCTV3,http://caiyehe.7766.org:9901/tsfile/live/1072_1.m3u8
+CCTV3,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv3$r7d 8M FHD
+
+CCTV4,http://36.129.204.120:880/DX4.m3u8
+
+CCTV5,http://36.129.204.120:880/DX99.m3u8
+CCTV5,http://13457610200.8866.org:2018/live/CCTVx5高清/index.m3u8
+CCTV5,http://13457610200.8866.org:2018/live/中央5HD/index.m3u8
+CCTV5,http://caiyehe.7766.org:9901/tsfile/live/1017_1.m3u8
+CCTV5,http://caiyehe.7766.org:9901/tsfile/live/1103_1.m3u8
+CCTV5,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv5$r7d 8M FHD
+
+CCTV5+,http://36.129.204.120:880/DX5.m3u8
+CCTV5+,http://13457610200.8866.org:2018/live/CCTVx5p高清/index.m3u8
+CCTV5+,http://13457610200.8866.org:2018/live/中央05HD/index.m3u8
+CCTV5+,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv5p$r7d 8M FHD
+CCTV5+,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv5p2$r7d 8M FHD
+
+CCTV6,http://36.129.204.120:880/DX98.m3u8
+CCTV6,http://13457610200.8866.org:2018/live/CCTVx6高清/index.m3u8
+CCTV6,http://13457610200.8866.org:2018/live/中6HD6./index.m3u8
+CCTV6,http://caiyehe.7766.org:9901/tsfile/live/1073_1.m3u8
+CCTV6,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv6$r7d 8M FHD
+
+CCTV7,http://36.129.204.120:880/DX7.m3u8
+CCTV7,http://13457610200.8866.org:2018/live/CCTVx7高清/index.m3u8
+CCTV7,http://caiyehe.7766.org:9901/tsfile/live/1084_1.m3u8
+CCTV7,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv7$r7d 8M FHD
+
+CCTV8,http://36.129.204.120:880/DX8.m3u8
+CCTV8,http://13457610200.8866.org:2018/live/CCTVx8高清/index.m3u8
+CCTV8,http://13457610200.8866.org:2018/live/中8HD./index.m3u8
+CCTV8,http://caiyehe.7766.org:9901/tsfile/live/1074_1.m3u8
+CCTV8,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv8$r7d 8M FHD
+CCTV9,http://36.129.204.120:880/DX9.m3u8
+CCTV9,http://13457610200.8866.org:2018/live/CCTVx9高清/index.m3u8
+CCTV9,http://caiyehe.7766.org:9901/tsfile/live/1006_1.m3u8
+CCTV9,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv9$r7d 8M FHD
+CCTV10,http://36.129.204.120:880/DX11.m3u8
+CCTV10,http://13457610200.8866.org:2018/live/CCTVx10高清/index.m3u8
+CCTV10,http://caiyehe.7766.org:9901/tsfile/live/1050_1.m3u8
+CCTV10,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv10$r7d 8M FHD
+CCTV11,http://36.129.204.120:880/DXX11.m3u8
+CCTV11,http://13457610200.8866.org:2018/live/CCTVx11高清/index.m3u8
+CCTV11,http://caiyehe.7766.org:9901/tsfile/live/1051_1.m3u8
+CCTV11,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv11$r7d 8M FHD
+CCTV12,http://36.129.204.120:880/DX12.m3u8
+CCTV12,http://13457610200.8866.org:2018/live/CCTVx12高清/index.m3u8
+CCTV12,http://caiyehe.7766.org:9901/tsfile/live/1052_1.m3u8
+CCTV12,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cctv12$r7d 8M FHD
+
+CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV13,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8
+CCTV13,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw2053011790_915661497/ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8?icpid=3&RTS=1674386463&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw98873079_-1249323947/ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8?icpid=3&RTS=1674380214&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec13_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw1538464012_-199930895/ott.mobaibox.com/PLTV/3/224/3221225560/index.m3u8?icpid=3&RTS=1674385948&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw98664044_1212991025/ott.mobaibox.com/PLTV/3/224/3221228121/index.m3u8?icpid=3&RTS=1674380214&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+
+
+CCTV14,http://36.129.204.120:880/DXCCTV14.m3u8
+CCTV14,http://13457610200.8866.org:2018/live/CCTVx14高清/index.m3u8
+CCTV14,http://caiyehe.7766.org:9901/tsfile/live/1053_1.m3u8
+CCTV15,http://36.129.204.120:880/WGCCTV15.m3u8
+CCTV15,http://13457610200.8866.org:2018/live/CCTVx15高清/index.m3u8
+CCTV15,http://caiyehe.7766.org:9901/tsfile/live/1054_1.m3u8
+CCTV16,http://36.129.204.120:880/WGCCTV16.m3u8
+CCTV16,http://caiyehe.7766.org:9901/tsfile/live/1075_1.m3u8
+CCTV17,http://36.129.204.120:880/CCN16.m3u8
+CCTV17,http://13457610200.8866.org:2018/live/CCTVx17高清/index.m3u8
+CCTV17,http://caiyehe.7766.org:9901/tsfile/live/1055_1.m3u8
+
+北京卫视,http://36.129.204.120:880/DX15.m3u8
+北京卫视,http://13457610200.8866.org:2018/live/北京卫视/index.m3u8
+北京卫视,http://13457610200.8866.org:2018/live/北京卫视高清/index.m3u8
+北京卫视,http://caiyehe.7766.org:9901/tsfile/live/1057_1.m3u8
+北京卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=bjws$r7d 8M FHD
+
+天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+
+湖南卫视,http://36.129.204.120:880/DXHNWS.m3u8
+湖南卫视,http://caiyehe.7766.org:9901/tsfile/live/1056_1.m3u8
+湖南卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=hunan$r7d 8M FHD
+东方卫视,https://live.125011.xyz/PLTV/shkk/231205/dfws/index.m3u8$r7d 官源 HD
+东方卫视,http://36.129.204.120:880/dx35.m3u8
+东方卫视,http://13457610200.8866.org:2018/live/上海东方卫视/index.m3u8
+东方卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=dfws$r7d 8M FHD
+江苏卫视,http://36.129.204.120:880/JSWS.m3u8
+江苏卫视,http://13457610200.8866.org:2018/live/江苏卫视/index.m3u8
+江苏卫视,http://13457610200.8866.org:2018/live/江苏卫视高清/index.m3u8
+江苏卫视,http://caiyehe.7766.org:9901/tsfile/live/1124_1.m3u8
+江苏卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=jsws$r7d 8M FHD
+广东卫视,http://36.129.204.120:880/CCN129.m3u8
+广东卫视,http://13457610200.8866.org:2018/live/广东卫视高清/index.m3u8
+广东卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=gdws$r7d 8M FHD
+浙江卫视,https://i.125011.xyz/zsj.php?id=zjws
+浙江卫视,http://36.129.204.120:880/DXZJWS.m3u8
+浙江卫视,http://13457610200.8866.org:2018/live/浙江卫视高清/index.m3u8
+浙江卫视,http://caiyehe.7766.org:9901/tsfile/live/1058_1.m3u8
+
+深圳卫视,http://36.129.204.120:880/DX16.m3u8
+深圳卫视,http://13457610200.8866.org:2018/live/深圳卫视高清/index.m3u8
+深圳卫视,http://caiyehe.7766.org:9901/tsfile/live/1023_1.m3u8
+深圳卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=szws$r7d 8M FHD
+
+山东卫视,http://36.129.204.120:880/DXSDWS.m3u8
+山东卫视,http://13457610200.8866.org:2018/live/山东卫视高清/index.m3u8
+山东卫视,http://caiyehe.7766.org:9901/tsfile/live/1061_1.m3u8
+山东卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=sdws$r7d 8M FHD
+
+安徽卫视,http://36.129.204.120:880/DXXAH.m3u8
+安徽卫视,http://13457610200.8866.org:2018/live/广东卫视HD/index.m3u8
+安徽卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=ahws$r7d 8M FHD
+
+江西卫视,http://36.129.204.120:880/CCN118.m3u8
+江西卫视,http://caiyehe.7766.org:9901/tsfile/live/1092_1.m3u8
+江西卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=jxws$r7d 8M FHD
+
+黑龙江卫视,http://36.129.204.120:880/DXHLJWS.m3u8
+黑龙江卫视,http://13457610200.8866.org:2018/live/黑龙江卫视高清/index.m3u8
+黑龙江卫视,http://caiyehe.7766.org:9901/tsfile/live/1027_1.m3u8
+黑龙江卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=hljws$r7d 8M FHD
+
+四川卫视,http://36.129.204.120:880/DXSCWS.m3u8
+四川卫视,http://caiyehe.7766.org:9901/tsfile/live/1091_1.m3u8
+四川卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=scws$r7d 8M FHD
+
+贵州卫视,http://36.129.204.120:880/DXGZWS.m3u8
+贵州卫视,http://13457610200.8866.org:2018/live/贵州卫视/index.m3u8
+贵州卫视,http://13457610200.8866.org:2018/live/贵州卫视高清/index.m3u8
+贵州卫视,http://caiyehe.7766.org:9901/tsfile/live/1062_1.m3u8
+
+湖北卫视,http://36.129.204.120:880/DXHBWSs.m3u8
+湖北卫视,http://13457610200.8866.org:2018/live/湖北卫视/index.m3u8
+湖北卫视,http://13457610200.8866.org:2018/live/湖北卫视高清/index.m3u8
+
+辽宁卫视,http://36.129.204.120:880/DX14.m3u8
+辽宁卫视,http://13457610200.8866.org:2018/live/辽宁卫视HD/index.m3u8
+
+广西卫视,http://36.129.204.120:880/DXGCWS.m3u8
+广西卫视,http://13457610200.8866.org:2018/live/广西卫视HD/index.m3u8
+广西卫视,http://13457610200.8866.org:2018/live/汽摩HD/index.m3u8
+广西卫视,http://caiyehe.7766.org:9901/tsfile/live/1039_1.m3u8
+重庆卫视,http://36.129.204.120:880/CCN144.m3u8
+重庆卫视,http://13457610200.8866.org:2018/live/重庆高清3/index.m3u8
+重庆卫视,http://13457610200.8866.org:2018/live/重庆卫视HD/index.m3u8
+重庆卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=cqws$r7d 8M FHD
+东南卫视,http://36.129.204.120:880/CCN149.m3u8
+东南卫视,http://13457610200.8866.org:2018/live/东南卫视高清/index.m3u8
+东南卫视,http://caiyehe.7766.org:9901/tsfile/live/1029_1.m3u8
+东南卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=dnws$r7d 8M FHD
+吉林卫视,http://36.129.204.120:880/DX17.m3u8
+吉林卫视,http://13457610200.8866.org:2018/live/吉林卫视HD/index.m3u8
+吉林卫视,http://caiyehe.7766.org:9901/tsfile/live/0116_1.m3u8
+吉林卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=jlws$r7d 8M FHD
+海南卫视,http://36.129.204.120:880/DXHNGS.m3u8
+海南卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=hainan$r7d 8M FHD
+云南卫视,http://36.129.204.120:880/CCN128.m3u8
+云南卫视,http://caiyehe.7766.org:9901/tsfile/live/1111_1.m3u8
+云南卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=ynws$r7d 8M FHD
+厦门卫视,http://36.129.204.120:880/DX61.m3u8
+厦门卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=xmws$r7d 1.3M SD
+河南卫视,https://i.125011.xyz/hndx.php?id=hnws
+河南卫视,http://36.129.204.120:880/DXHNWSs.m3u8
+河南卫视,http://13457610200.8866.org:2018/live/河南卫视HD/index.m3u8
+河南卫视,http://caiyehe.7766.org:9901/tsfile/live/1125_1.m3u8
+河南卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=hnws$r7d 8M FHD
+河北卫视,http://36.129.204.120:880/DXHBW.m3u8
+河北卫视,http://13457610200.8866.org:2018/live/河北卫视高清/index.m3u8
+陕西卫视,http://36.129.204.120:880/SXWS.m3u8
+陕西卫视,http://13457610200.8866.org:2018/live/陕西卫视/index.m3u8
+陕西卫视,http://caiyehe.7766.org:9901/tsfile/live/1134_1.m3u8
+山西卫视,http://36.129.204.120:880/CCN131.m3u8
+山西卫视,http://13457610200.8866.org:2018/live/山西卫视HD/index.m3u8
+山西卫视,http://caiyehe.7766.org:9901/tsfile/live/1131_1.m3u8
+甘肃卫视,http://36.129.204.120:880/CCN139.m3u8
+甘肃卫视,http://caiyehe.7766.org:9901/tsfile/live/1063_1.m3u8
+宁夏卫视,http://36.129.204.120:880/DXNXWS.m3u8
+宁夏卫视,http://caiyehe.7766.org:9901/tsfile/live/1137_1.m3u8
+宁夏卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=nxws$r7d 1.3M SD
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+青海卫视,http://36.129.204.120:880/CCN146.m3u8
+青海卫视,http://caiyehe.7766.org:9901/tsfile/live/1135_1.m3u8
+青海卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=qhws$r7d 1.3M SD
+西藏卫视,http://36.129.204.120:880/dxxz.m3u8
+西藏卫视,http://13457610200.8866.org:2018/live/西藏卫视HD/index.m3u8
+西藏卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=xzws$r7d 2.5M SD
+新疆卫视,http://36.129.204.120:880/CCN145.m3u8
+新疆卫视,http://13457610200.8866.org:2018/live/新疆卫视HD/index.m3u8
+新疆卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=xjws$r7d 1.3M SD
+内蒙古卫视,http://36.129.204.120:880/CCN135.m3u8
+内蒙古卫视,http://caiyehe.7766.org:9901/tsfile/live/1136_1.m3u8
+内蒙古卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=nmgws$r7d 1.3M SD
+大湾区卫视,http://13457610200.8866.org:2018/live/南方卫视HD/index.m3u8
+大湾区卫视,http://caiyehe.7766.org:9901/tsfile/live/1044_1.m3u8
+大湾区卫视,http://caiyehe.7766.org:9901/tsfile/live/1149_1.m3u8
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8?$官源 HD
+三沙卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=ssws$r7d 8M FHD
+农林卫视,http://36.129.204.120:880/DX50.m3u8
+农林卫视,http://caiyehe.7766.org:9901/tsfile/live/1141_1.m3u8
+延边卫视,https://live.125011.xyz/PLTV/ybtv/231205/ybws/index.m3u8$r1d 官源 HD
+延边卫视,http://36.129.204.120:880/CCN45.m3u8
+兵团卫视,http://36.129.204.120:880/DX51.m3u8
+兵团卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=btws$r7d 1.3M SD
+山东教育卫视,http://36.129.204.120:880/CCN161.m3u8
+康巴卫视,https://i.125011.xyz/PLTV/live1.php?ip=rand&id=kbws$r7d 2.5M SD
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
